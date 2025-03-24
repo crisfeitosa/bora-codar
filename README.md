@@ -34,7 +34,7 @@
     <tbody>
       <tr>
         <td>01</td>
-        <td><a href="01">Music Player </a></td>
+        <td><a href="01">Music Player</a></td>
         <td>
           <a href="https://boracodar01.netlify.app/">
             https://boracodar01.netlify.app/
@@ -42,6 +42,17 @@
         </td>
         <td align="center">
         <a href="01"><img width="300px" src="01/.github/preview.png" /></a></td>
+      </tr>
+      <tr>
+        <td>02</td>
+        <td><a href="02">Product Card</a></td>
+        <td>
+          <a href="https://boracodar02.netlify.app/">
+            https://boracodar02.netlify.app/
+          </a>
+        </td>
+        <td align="center">
+        <a href="02"><img width="300px" src="02/.github/preview.png" /></a></td>
       </tr>
     </tbody>
 </table></p>
