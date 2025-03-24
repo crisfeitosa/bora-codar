@@ -12,13 +12,13 @@
           </p>
         </th>
         <th align="center">
-          <img width="300" height="1"> 
+          <img width="150" height="1"> 
           <p> 
             <small>NAME</small>
           </p>
         </th>
         <th align="left">
-          <img width="140" height="1">
+          <img width="200" height="1">
           <p align="left"> 
             <small>PREVIEW</small>
           </p>
