@@ -36,7 +36,7 @@
         <td>01</td>
         <td><a href="01">Music Player</a></td>
         <td>
-          <a href="https://boracodar01.netlify.app/">
+          <a href="https://boracodar01.netlify.app/" target="_blank">
             https://boracodar01.netlify.app/
           </a>
         </td>
@@ -47,7 +47,7 @@
         <td>02</td>
         <td><a href="02">Product Card</a></td>
         <td>
-          <a href="https://boracodar02.netlify.app/">
+          <a href="https://boracodar02.netlify.app/" target="_blank">
             https://boracodar02.netlify.app/
           </a>
         </td>
