@@ -54,5 +54,16 @@
         <td align="center">
         <a href="02"><img width="300px" src="02/.github/preview.png" /></a></td>
       </tr>
+      <tr>
+        <td>03</td>
+        <td><a href="03">Botões e Cursores</a></td>
+        <td>
+          <a href="https://botoesecursores.netlify.app/" target="_blank">
+            https://botoesecursores.netlify.app/
+          </a>
+        </td>
+        <td align="center">
+        <a href="03"><img width="300px" src="03/.github/preview.png" /></a></td>
+      </tr>
     </tbody>
 </table></p>
