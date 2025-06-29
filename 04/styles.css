@@ -43,7 +43,7 @@ body {
   background-color: var(--bg-color);
   height: 100vh;
 
-  padding: clamp(1.8rem, 1.6rem + 2.5vw, 3.2rem);
+  padding: clamp(1.6rem, 1.6rem + 2.5vw, 2.4rem);
 
   display: grid;
   grid-template-areas:
@@ -59,7 +59,7 @@ body {
 header,
 main,
 .input-wrapper {
-  width: min(95%, 88rem);
+  width: min(100%, 88rem);
   margin-inline: auto;
 }
 
