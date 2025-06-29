@@ -59,7 +59,7 @@ body {
 header,
 main,
 .input-wrapper {
-  width: min(100%, 88rem);
+  width: min(95%, 88rem);
   margin-inline: auto;
 }
 
