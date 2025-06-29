@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1"
+    />
+    <title>Chat</title>
+
+    <link rel="stylesheet" href="styles.css" />
+
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+  </head>
+<body>
+  <header>
+    <div class="user-info">
+      <img
+        src="https://github.com/crisfeitosa.png"
+        alt="Cristiano Feitosa's profile picture"
+      />
+      <div class="user-status">
+        <span class="user">Cristiano Feitosa</span>
+        <span class="status">
+          <svg
+            width="8"
+            height="8"
+            viewBox="0 0 8 8"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <circle cx="4" cy="4" r="4" fill="#00B37E" />
+          </svg>
+          Online
+        </span>
+      </div>
+    </div>
+    <button class="close" aria-label="Close">
+      <i class="ph ph-x"></i>
+    </button>
+  </header>
+
+  <main>
+    <div class="chat-wrapper">
+      <div class="chat">
+        <span class="last-seen">Hoje 11:30</span>
+
+        <div class="message friend">
+          <span>Cristiano - 11:30</span>
+          <p>Tive uma ideia incrível para um projeto! 😍</p>
+        </div>
+
+        <div class="message you">
+          <span>Você - 11:32</span>
+          <p>Sério? Me conta mais.</p>
+        </div>
+
+        <div class="message friend">
+          <span>Cristiano - 11:34</span>
+          <p>
+            E se a gente fizesse um chat moderno e responsivo em apenas uma
+            semana?
+          </p>
+        </div>
+
+        <div class="message you">
+          <span>Você - 11:36</span>
+          <p class="strong">#boraCodar! 🚀</p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <div class="input-wrapper">
+    <input type="text" placeholder="Digite sua mensagem" />
+
+    <button type="submit" aria-label="Enviar mensagem">
+      <i class="ph ph-paper-plane-right"></i>
+    </button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
