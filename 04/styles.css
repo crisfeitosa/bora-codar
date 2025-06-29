@@ -13,6 +13,7 @@
   --bg-color: #1a1924;
   --message-color: #07847e;
   --message-friend-color: #633bbc;
+  --success-color: #00b37e;
 }
 
 img, 
@@ -84,7 +85,7 @@ header .user-info img {
 }
 
 header .user-status .status {
-  color: #00b37e;
+  color: var(--success-color);
   font-size: 1.2rem;
   line-height: 1.4rem;
 
@@ -159,7 +160,7 @@ main .you p {
 }
 
 .input-wrapper:has(input:focus) {
-  outline: 2px solid #00b37e;
+  outline: 2px solid var(--success-color);
 }
 
 .input-wrapper {
