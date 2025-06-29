@@ -65,5 +65,16 @@
         <td align="center">
         <a href="03"><img width="300px" src="03/.github/preview.png" /></a></td>
       </tr>
+      <tr>
+        <td>04</td>
+        <td><a href="04">Chat</a></td>
+        <td>
+          <a href="https://chat-bora-codar.netlify.app/" target="_blank">
+            https://chat-bora-codar.netlify.app/
+          </a>
+        </td>
+        <td align="center">
+        <a href="04"><img width="300px" src="04/.github/preview.png" /></a></td>
+      </tr>
     </tbody>
 </table></p>
